@@ -1,0 +1,45 @@
+.marks{
+    max-width: 500px;
+    width: 100%;
+    background-color: white;
+    margin: auto auto;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.125);
+    margin-bottom: 25px;
+}
+.marks2{
+    
+    max-width: 500px;
+    width: 100%;
+    background-color: white;
+    margin: auto auto;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.125);
+}
+body{
+    background: #D071F9 ;
+}
+pre{
+    font-size: 15px;
+    color: #D071F9 ;
+}
+.skill{
+    border: 2px solid black;
+    max-width: 500px;
+    width: 100%;
+    background-color: white;
+    margin: 100px auto;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.125);
+    margin-bottom: 25px;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+.ssc{
+    text-align: center;
+    size: 2em;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
